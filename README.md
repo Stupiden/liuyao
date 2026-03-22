@@ -12,6 +12,21 @@ Each toss determines one line of the hexagram, and some lines are "changing", me
 
 ---
 
+## Installation & Quick Start
+
+Download `yixchange-1.0.0-py3-none-any.whl`, then install it:
+```bash
+pip install yixchange-1.0.0-py3-none-any.whl
+```
+
+Then create a `main.py` and test it:
+```python
+from yixchange import main
+
+main()
+
+---
+
 ## Background & further reading
 
 - [I Ching Visualization Guide — Ohio State University](https://designviz.osu.edu/iching/)
